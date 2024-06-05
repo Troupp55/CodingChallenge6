@@ -1,1 +1,1 @@
-# CodingChallenge6
+So, this project involves creating an interactive bouncing ball animation using HTML5 and JavaScript. The ball moves within a canvas element, reversing its direction upon colliding with the canvas edges to simulate realistic bouncing behavior. The animation is driven by Javascript setInterval method which continuously updates the ball's position and redraws it on the canvas. 
